@@ -14,4 +14,8 @@
   .btn-primary {
     @apply py-3 px-6 bg-primary text-white;
   }
+
+  .btn-white {
+    @apply py-3 px-6 bg-white;
+  }
 }
